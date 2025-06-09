@@ -32,5 +32,6 @@ NutriScore adalah aplikasi web berbasis Machine Learning yang memudahkan penggun
 
 # NutriScore Application
 
+[Link Deploy](http://nutriscoree.netlify.app)
 
 
