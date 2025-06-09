@@ -1,7 +1,7 @@
 <div align="center">
-  <h2>
+  <h1>
     NutriScore – Capstone Dicoding 2025
-  </h2>
+  </h1>
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 # About The Project
 
-NutriScore is a personalized nutrition scoring web app that helps users make informed decisions about their meals. By analyzing food images using machine learning and calculating nutrient scores based on personal physical data (age, gender, weight, height, activity), NutriScore gives users accurate and tailored insights for healthier eating habits.
+NutriScore adalah aplikasi web berbasis Machine Learning yang memudahkan pengguna mengenali kandungan gizi makanan hanya dengan memfoto makanan yang dikonsumsi. Skor gizi yang ditampilkan disesuaikan secara personal berdasarkan profil pengguna, seperti usia, jenis kelamin, tinggi badan, berat badan, dan tingkat aktivitas fisik. Selain itu, NutriScore juga memberikan rekomendasi resep makanan yang lebih sehat untuk mendorong pola makan yang lebih baik.
 
 ## 📁 Repository
 
@@ -33,7 +33,4 @@ NutriScore is a personalized nutrition scoring web app that helps users make inf
 ## NutriScore Application
 
 
-## Contact
-
-Feel free to reach out to us via [email].
 
