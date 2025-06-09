@@ -25,12 +25,12 @@
 
 NutriScore adalah aplikasi web berbasis Machine Learning yang memudahkan pengguna mengenali kandungan gizi makanan hanya dengan memfoto makanan yang dikonsumsi. Skor gizi yang ditampilkan disesuaikan secara personal berdasarkan profil pengguna, seperti usia, jenis kelamin, tinggi badan, berat badan, dan tingkat aktivitas fisik. Selain itu, NutriScore juga memberikan rekomendasi resep makanan yang lebih sehat untuk mendorong pola makan yang lebih baik.
 
-## 📁 Repository
+# 📁 Repository
 
 - [Machine Learning Repository](https://github.com/Capstone-NutriScore/Machine-Learning)
 - [Frontend & Backend Repository](https://github.com/Capstone-NutriScore/febe)
 
-## NutriScore Application
+# NutriScore Application
 
 
 
