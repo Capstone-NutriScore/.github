@@ -3,10 +3,6 @@
     NutriScore – Capstone Dicoding 2025
   </h2>
 </div>
-<div align="center">
-  <a href="https://github.com/Capstone-NutriScore">
-  </a>
-</div>
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/213302541?s=400&u=da11f034bbf98d0b9f0581b91be7e60a9637e481&v=4" width="100" height="100"><br>
