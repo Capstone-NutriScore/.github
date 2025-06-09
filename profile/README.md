@@ -9,6 +9,11 @@
   <i>Scan Your Meal, Upgrade Your Life</i>
 </div>
 
+# About The Project
+
+NutriScore adalah proyek Capstone berbasis produk yang dikembangkan dalam program Coding Camp 2025 yang didukung oleh DBS Foundation.
+Kami adalah tim yang terdiri dari 6 anggota, yang terbagi menjadi 3 orang dari tim Machine Learning dan 3 orang dari tim Front-End & Back-End (FEBE).
+
 # Team Members
 ## Team ID : CC25-CF122
 
@@ -21,7 +26,7 @@
 | Sandi Kurniawan       | FC185D5Y1178 | Front-End & Back-End |
 | Jimmy Raymond Wijaya       | FC185D5Y1265 | Front-End & Back-End |
 
-# About The Project
+# Project Description
 
 NutriScore adalah aplikasi web berbasis Machine Learning yang memudahkan pengguna mengenali kandungan gizi makanan hanya dengan memfoto makanan yang dikonsumsi. Skor gizi yang ditampilkan disesuaikan secara personal berdasarkan profil pengguna, seperti usia, jenis kelamin, tinggi badan, berat badan, dan tingkat aktivitas fisik. Selain itu, NutriScore juga memberikan rekomendasi resep makanan yang lebih sehat untuk mendorong pola makan yang lebih baik.
 
