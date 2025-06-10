@@ -33,7 +33,7 @@ NutriScore adalah aplikasi web berbasis Machine Learning yang memudahkan penggun
 # 📁 Repository
 
 - [Machine Learning Repository](https://github.com/Capstone-NutriScore/Machine-Learning)
-- [Frontend & Backend Repository](https://github.com/Capstone-NutriScore/febe)
+- [Frontend & Backend Repository](https://github.com/Capstone-NutriScore/Front-End---Back-End)
 
 # NutriScore Application
 
